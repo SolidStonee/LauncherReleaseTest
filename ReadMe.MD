@@ -1,0 +1,1 @@
+This is a test for Squirrel Auto Updater
